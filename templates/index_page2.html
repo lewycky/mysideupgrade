@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="utf-8">
+        <title>Moja pierwsza strona</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style_page2.css') }}">
+
+    </head>
+    <body>
+        <h1>Witam serdecznie na mojej stronie Przyjacielu</h1>
+        <img src="{{url_for('static',filename='IMG_0074-45_500x625 px_PL Elektron. legit. stud. Uniwersytet Warszawski.jpg')}}" width="400px" height="525px" alt="Laptop screen with code" title="Code">
+        <h2 class="contact">Kontakt</h2>
+        <ul> 
+            <li>email</li>
+            <li>telefon</li>
+        </ul>
+        <section>
+            <form action="">
+                <p><b>Wyslij wiadomość</b></p>
+                <textarea name="" id="" cols="30" rows="4"></textarea>
+                <button>Prześlij</button>
+            </form>
+        </section>
+
+
+
+        
+    </body>
+</html>

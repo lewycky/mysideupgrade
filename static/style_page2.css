@@ -1,0 +1,32 @@
+
+body {
+    background-color: rgb(35, 116, 144);
+}
+
+h1 {
+    color: darkblue;
+    background: orange;
+    font-size: 55px;
+    margin-left: 450px;
+    padding: 20px;
+}
+   
+.contact {
+    color: darkblue;
+    font-size: 108px;
+    margin-left: 50px;
+}
+
+p {
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+textarea {
+    margin-left: 50px;
+}
+
+li {
+    font-size: 30px;
+    margin-left: 75px;
+}
