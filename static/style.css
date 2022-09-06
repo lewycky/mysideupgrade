@@ -20,3 +20,24 @@ p {
     font-size: 30px;
     margin-left: 150px;
 }
+
+.contact {
+    color: darkblue;
+    font-size: 108px;
+    margin-left: 50px;
+}
+
+p {
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+textarea {
+    margin-left: 50px;
+}
+
+li {
+    font-size: 30px;
+    margin-left: 75px;
+}
+
